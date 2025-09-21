@@ -11,11 +11,11 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/arc-teryx/arc-teryx-1.jpg",
-      "assets/products/arc-teryx/arc-teryx-2.jpg",
-      "assets/products/arc-teryx/arc-teryx-3.jpg",
-      "assets/products/arc-teryx/arc-teryx-4.jpg",
-      "assets/products/arc-teryx/arc-teryx-5.jpg"
+      "assets/products/arc-teryx/arc-teryx-1_v2.jpg",
+      "assets/products/arc-teryx/arc-teryx-2_v2.jpg",
+      "assets/products/arc-teryx/arc-teryx-3_v2.jpg",
+      "assets/products/arc-teryx/arc-teryx-4_v2.jpg",
+      "assets/products/arc-teryx/arc-teryx-5_v2.jpg"
     ],
     "featured": true
   },
@@ -31,9 +31,9 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/blackhole/blackhole-1.jpg",
-      "assets/products/blackhole/blackhole-2.jpg",
-      "assets/products/blackhole/blackhole-3.jpg"
+      "assets/products/blackhole/blackhole-1_v2.jpg",
+      "assets/products/blackhole/blackhole-2_v2.jpg",
+      "assets/products/blackhole/blackhole-3_v2.jpg"
     ],
     "featured": true
   },
@@ -49,11 +49,11 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/homer-simpson/homer-simpson-1.jpg",
-      "assets/products/homer-simpson/homer-simpson-2.jpg",
-      "assets/products/homer-simpson/homer-simpson-3.jpg",
-      "assets/products/homer-simpson/homer-simpson-4.jpg",
-      "assets/products/homer-simpson/homer-simpson-5.jpg"
+      "assets/products/homer-simpson/homer-simpson-1_v2.jpg",
+      "assets/products/homer-simpson/homer-simpson-2_v2.jpg",
+      "assets/products/homer-simpson/homer-simpson-3_v2.jpg",
+      "assets/products/homer-simpson/homer-simpson-4_v2.jpg",
+      "assets/products/homer-simpson/homer-simpson-5_v2.jpg"
     ],
     "featured": true
   },
@@ -69,9 +69,9 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/homer-simpson-smal/homer-simpson-smal-1.jpg",
-      "assets/products/homer-simpson-smal/homer-simpson-smal-2.jpg",
-      "assets/products/homer-simpson-smal/homer-simpson-smal-3.jpg"
+      "assets/products/homer-simpson-smal/homer-simpson-smal-1_v2.jpg",
+      "assets/products/homer-simpson-smal/homer-simpson-smal-2_v2.jpg",
+      "assets/products/homer-simpson-smal/homer-simpson-smal-3_v2.jpg"
     ],
     "featured": true
   },
@@ -87,11 +87,11 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/leafy/leafy-1.jpg",
-      "assets/products/leafy/leafy-2.jpg",
-      "assets/products/leafy/leafy-3.jpg",
-      "assets/products/leafy/leafy-4.jpg",
-      "assets/products/leafy/leafy-5.jpg"
+      "assets/products/leafy/leafy-1_v2.jpg",
+      "assets/products/leafy/leafy-2_v2.jpg",
+      "assets/products/leafy/leafy-3_v2.jpg",
+      "assets/products/leafy/leafy-4_v2.jpg",
+      "assets/products/leafy/leafy-5_v2.jpg"
     ],
     "featured": true
   },
@@ -128,10 +128,10 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/plankton/plankton-1.jpg",
-      "assets/products/plankton/plankton-2.jpg",
-      "assets/products/plankton/plankton-3.jpg",
-      "assets/products/plankton/plankton-4.jpg"
+      "assets/products/plankton/plankton-1_v2.jpg",
+      "assets/products/plankton/plankton-2_v2.jpg",
+      "assets/products/plankton/plankton-3_v2.jpg",
+      "assets/products/plankton/plankton-4_v2.jpg"
     ],
     "featured": false
   },
@@ -147,9 +147,9 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/towelie/towelie-1.jpg",
-      "assets/products/towelie/towelie-2.jpg",
-      "assets/products/towelie/towelie-3.jpg"
+      "assets/products/towelie/towelie-1_v2.jpg",
+      "assets/products/towelie/towelie-2_v2.jpg",
+      "assets/products/towelie/towelie-3_v2.jpg"
     ],
     "featured": false
   },
@@ -165,10 +165,10 @@
       "acrylic"
     ],
     "images": [
-      "assets/products/æhick/æhick-1.jpg",
-      "assets/products/æhick/æhick-2.jpg",
-      "assets/products/æhick/æhick-3.jpg",
-      "assets/products/æhick/æhick-4.jpg"
+      "assets/products/æhick/æhick-1_v2.jpg",
+      "assets/products/æhick/æhick-2_v2.jpg",
+      "assets/products/æhick/æhick-3_v2.jpg",
+      "assets/products/æhick/æhick-4_v2.jpg"
     ],
     "featured": false,
     "in_stock": false
